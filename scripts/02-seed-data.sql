@@ -1,0 +1,11 @@
+-- Seed products
+INSERT INTO products (name, description, price, category, stock_quantity, image_url)
+VALUES 
+  ('Premium Leather Tote', 'Handcrafted Italian leather tote bag for everyday use.', 199.00, 'Bags', 15, '/placeholder.svg?height=600&width=600'),
+  ('Minimalist Wristwatch', 'Elegant timepiece with a stainless steel case and sapphire crystal.', 249.00, 'Accessories', 20, '/placeholder.svg?height=600&width=600'),
+  ('Organic Cotton Hoodie', 'Ultra-soft sustainable cotton hoodie in neutral tones.', 89.00, 'Apparel', 50, '/placeholder.svg?height=600&width=600'),
+  ('Artisanal Ceramic Vase', 'Unique hand-thrown ceramic vase with a matte finish.', 65.00, 'Home', 12, '/placeholder.svg?height=600&width=600'),
+  ('Modern Cotton Kurta', 'Premium organic cotton kurta with a contemporary silhouette.', 1899.00, 'Ethnic Wear', 25, 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=800|https://images.unsplash.com/photo-1624371414361-e6e8eaeba82a?q=80&w=800|https://images.unsplash.com/photo-1596450514735-248b2141b808?q=80&w=800|https://images.unsplash.com/photo-1627484394148-a554a974024b?q=80&w=800'),
+  ('Temple Jewellery Set', 'Traditional gold-plated silver set with semi-precious stones.', 4999.00, 'Jewellery', 10, 'https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?q=80&w=800|https://images.unsplash.com/photo-1611652022419-a9419f74343d?q=80&w=800|https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800|https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?q=80&w=800'),
+  ('Silver Filigree Earrings', 'Exquisite handcrafted wire-woven silver earrings.', 1200.00, 'Jewellery', 30, 'https://images.unsplash.com/photo-1535633302704-b02923659c32?q=80&w=800|https://images.unsplash.com/photo-1630019017575-019623194a30?q=80&w=800|https://images.unsplash.com/photo-1588444837495-c6cfaf50c8a9?q=80&w=800|https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=800'),
+  ('Brass Puja Thali Set', 'Hand-hammered pure brass set for ritual use.', 3500.00, 'Home Decor', 15, 'https://images.unsplash.com/photo-1589118949245-7d38baf380d6?q=80&w=800|https://images.unsplash.com/photo-1567337710282-00832b415979?q=80&w=800|https://images.unsplash.com/photo-1602143328227-efd5d602e9f7?q=80&w=800|https://images.unsplash.com/photo-1609130767011-d130f031c302?q=80&w=800');
