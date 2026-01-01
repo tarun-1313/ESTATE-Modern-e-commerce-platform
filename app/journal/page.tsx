@@ -45,7 +45,7 @@ export default function JournalPage() {
       date: "May 5, 2024",
       author: "Aria Smith",
       category: "Behind the Scenes",
-      image: "https://images.unsplash.com/photo-1590074259104-4f05658b919d?q=80&w=800"
+      image: "https://images.unsplash.com/photo-1524230572899-a752b3835840?q=80&w=800"
     }
   ]
 
