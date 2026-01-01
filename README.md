@@ -1,4 +1,4 @@
-# ESTATE - Ethical E-Commerce Platform
+# ESTATE - Ethical E-Commerce Platform (Deployment Link: https://estate-modern-e-commerce-platform.vercel.app/ )
 
 ## Overview
 ESTATE is a modern, high-performance e-commerce platform dedicated to ethical shopping and sustainable craftsmanship. Built with a focus on curated quality, the platform connects conscious consumers with authentic products while providing a seamless, AI-enhanced shopping experience.
